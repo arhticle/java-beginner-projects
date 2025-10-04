@@ -1,6 +1,6 @@
 # Shopping Cart Program
 
-A simple java program where you get to choose your item you want to buy, choose the quantity of it, what its price is and then find the total of it.
+A simple beginner-friendly java console program where you get to choose your item you want to buy, choose the quantity of it, what its price is and then find the total of it.
 
 ## Concepts covered
 - Variables

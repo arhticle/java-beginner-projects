@@ -5,5 +5,5 @@ Projects progress from beginner exercises (variables, input/output) to more comp
 
 ## Projects
 
-- [MadLibs](./madlibs) - basic input/output and string manipulation.
+- [MadLibs](./C:\Users\arhti\IdeaProjects\JavaBeginnerProjects\src\madlibs) - basic input/output and string manipulation.
 - ... More to come!

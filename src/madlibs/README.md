@@ -6,7 +6,6 @@ A simple Java program that takes user input to create a fun story.
 - Variables
 - Scanner/user input
 - String concatenation
-- Basic arithmetic
 
 ## How to run
 
